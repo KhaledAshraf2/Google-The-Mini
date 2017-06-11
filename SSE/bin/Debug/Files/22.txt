@@ -1,0 +1,372 @@
+Foundation Concepts:
+Information Systems in Business
+The question of why we need to study information systems and information technology
+has evolved into a moot issue. Information systems have become as integrated into our
+daily business activities as accounting, finance, operations management, marketing, human
+resource management, or any other major business function. Information systems
+and technologies are vital components of successful businesses and organizations—some
+would say they are business imperatives. They thus constitute an essential field of study
+in business administration and management, which is why most business majors include
+a course in information systems. Since you probably intend to be a manager, entrepreneur,
+or business professional, it is just as important to have a basic understanding of
+information systems as it is to understand any other functional area in business.
+Information technologies, including Internet-based information systems, are playing
+vital and expanding roles in business. Information technology can help all kinds of
+businesses improve the efficiency and effectiveness of their business processes, managerial
+decision making, and workgroup collaboration, which strengthens their competitive
+positions in rapidly changing marketplaces. This benefit occurs irrespective of
+whether the information technology is used to support product development teams,
+customer support processes, e-commerce transactions, or any other business activity.
+Information technologies and systems are, quite simply, an essential ingredient for
+business success in today’s dynamic global environment.
+Let’s take a moment to bring the real world into our discussion of the importance of
+information systems (IS) and information technology (IT). See Figure 1.1 , and read
+the Real World Case about using information technology to better understand and
+satisfy customer needs.
+If we are to understand information systems and their functions, we first need to
+be clear on the concept of a system. In its simplest form, a system is a set of interrelated
+components, with a clearly defined boundary, working together to achieve a
+common set of objectives. Using this definition, it becomes easy to see that virtually
+everything you can think of is a system, and one system can be made up of other systems
+or be part of a bigger system. We will expand on this concept later in the next
+section, but for now, this definition gives us a good foundation for understanding the
+focus of this textbook: information systems.
+We begin with a simple definition that we can expand upon later in the chapter. An
+information system (IS) can be any organized combination of people, hardware, software,
+communications networks, data resources, and policies and procedures that
+stores, retrieves, transforms, and disseminates information in an organization. People
+rely on modern information systems to communicate with one another using a variety
+of physical devices (hardware) , information processing instructions and procedures
+(software) , communications channels (networks) , and stored data (data resources) . Although
+today’s information systems are typically thought of as having something to do
+with computers, we have been using information systems since the dawn of civilization.
+Even today we make regular use of information systems that have nothing to do
+with a computer. Consider some of the following examples of information systems:
+• Smoke signals for communication were used as early as recorded history and
+can account for the human discovery of fire. The pattern of smoke transmitted
+valuable information to others who were too far to see or hear the sender.
+• Card catalogs in a library are designed to store data about the books in an organized
+manner that allows readers to locate a particular book by its title, author
+name, subject, or a variety of other approaches.
+The Real
+World of
+Information
+Systems
+What Is an
+Information System?
+SECTION I
+eCourier, Cablecom, and Bryan Cave:
+Delivering Value through Business
+Intelligence
+a market where many courier companies use telephone dispatchers
+and guesswork about package whereabouts. Booking
+and tracking automation—while innovative—did not
+complete the customer happiness puzzle. Without leadingedge
+business intelligence, account managers could miss
+the same issues that plagued other courier services—late
+deliveries, surly couriers, or even an unnoticed ramp-up in
+deliveries. “We’re only one delivery away from someone
+deciding to use a different delivery firm,” says Bregman.
+So eCourier started using software from a company called
+SeeWhy to try and generate customer data more quickly.
+“What’s unique about SeeWhy,” says Bregman, “is its ability to
+report what’s happening with customers instantly.” When a
+new booking enters eCourier’s database, the information is duplicated
+and saved into a repository within SeeWhy. The software
+then interprets the data by comparing it with previous
+information and trends, and if it notices an anomaly, it takes
+action. If a customer typically places an eCourier order every
+Thursday morning between 9:30 and 10:00 and there’s been
+no contact during that time, eCourier’s CRM team will receive
+an alert shortly after 10:00 that includes the client’s history and
+the number of bookings it typically places in a day. Bregman
+says there’s a fair amount of tuning to get the metrics right. For
+example, the company had to tweak the system to recognize
+expected shifts in activity so that it doesn’t send a slew of alerts
+once the after-Christmas drop in business occurs. Getting that
+perfect balance of when to send alerts and how best to optimize
+the system is an ongoing process, he says.
+The SeeWhy software is designed to establish a “normal”
+client booking pattern from the first use, which is deepened
+with each subsequent booking. A sharp drop-off in bookings,
+an increase in bookings, or a change in dormant account activity
+generates an alert that is sent to that client’s account
+manager, who then uses the opportunity to problem-solve or,
+in the case of increased activity, upsell, for example, to overnight
+or international services. “These capabilities have provided
+a big payoff,” says Bregman. He also believes the system
+saves his company the expense of having to hire people to
+monitor for “who’s happy and who’s not—we’re able to do a
+lot more on our customer team with a lot less.”
+There are other approaches to judging customer dissatisfaction,
+however. Cablecom, a Swiss telecom company, used
+SPSS’s statistical software to mine customer data, primarily
+from trouble tickets—such as the average duration of a ticket,
+or how many tickets had been opened for a customer over a
+specific time period—to build a model that could flag when a
+customer was at a high risk of leaving. “But the model proved
+to be only about 70% accurate,” says Federico Cesconi, director
+of customer insight and retention.
+So Cesconi used SPSS’s Dimensions survey research
+software to create an online customer survey, and from that
+he was able to determine that customer dissatisfaction usually
+begins around the ninth month of service, with the bulk
+of the customer losses occurring between months 12 and 14.
+Cesconi then created another survey that he now offers to
+V isitors to the eCourier Web site are greeted with
+the words “How happy are you ? Take the eCourier
+happy test today!” Those words and the playful
+purple Web site represent the company’s customer satisfaction
+focus. And a key for the company in achieving that happiness
+is through its focus on operational business intelligence.
+Business intelligence is moving out of the ivory tower of
+specialized analysts and is being brought to the front lines.
+In the case of eCourier, whose couriers carry 2,000 packages
+around London each day, operational business intelligence
+allows the company to keep real-time tabs on customer satisfaction.
+“This is a crucial differentiator in London’s competitive
+same-day courier market, where clients are far more
+likely to take their business elsewhere than they are to report
+a problem to their current courier,” says the company’s chief
+technology officer and cofounder Jay Bregman.
+Online directory London Online alone shows about 350
+listings for courier services.
+Before implementing operational business intelligence,
+eCourier sought to define IT as a crucial differentiator. Cofounders
+Tom Allason, eCourier’s CEO, and Bregman ditched
+the idea of phone dispatchers and instead gave their couriers
+GPS-enabled handhelds so that couriers can be tracked and
+orders can be communicated electronically. They also focused
+on making online booking easy and rewarding; and much was
+invested in user-friendly applications: Customers can track
+online exactly where their courier is, eliminating the package
+delivery guesswork.
+Today, 95 percent of deliveries are booked online,
+meaning that eCourier needs a much smaller staff for monitoring,
+tracking, and placing orders, which in turn makes
+the company more scalable. Bregman says this is notable in
+customers in the seventh month of service, and which includes
+an area where they can type in specific complaints and
+problems. “Cablecom calls customers within 24 hours of
+completing the survey,” says Cesconi. “The two approaches
+together provide the best view of customers ready to bolt,
+and the best chance at retaining them.”
+In 2002, global law firm Bryan Cave faced the milliondollar
+question: How do you make the most money with
+your resources while simultaneously delivering the highest
+customer value? The problem was pressing. Clients of the
+firm, which now has 800 lawyers in 15 offices worldwide,
+were demanding alternatives to the traditional hourly fee
+structure. They wanted new models such as fixed pricing
+and pricing that was adjusted during a project.
+But making money off these new billing strategies required
+the complicated balance of staffing and pricing.
+Projects weighted too heavily with a law partner’s time
+would be expensive (for the law firm) and not optimized for
+profit. Devoting too little of a partner’s time would leave clients
+feeling undervalued. Optimizing profit and perceived
+value had to be achieved by spreading partners’ time throughout
+a number of cases and balancing the remaining resources
+needed for a case with the less-expensive fees of associates and
+paralegals. “Clients are most likely to stay with you if you deliver
+just the right mix,” says Bryan Cave’s CIO John Alber.
+The law firm’s traditional method of analyzing collected
+fees and profit used a spreadsheet that was complicated and
+took too long. “Spreadsheets provide a level of detail that can
+be valuable for analysts,” says Alber, “but the information in a
+spreadsheet can be confusing and difficult to work with.” Alber
+says he decided it was better to build an easy-to-understand
+interface using business intelligence tools; although the company
+will not release specific figures, Alber says since the company
+implemented its first BI tool in 2004, both profitability
+and hours leveraged—the hours worked by equity partners and
+all other fee earners at the firm—have increased substantially.
+The tools also allow lawyers to track budgets in real time
+so that they can quickly make adjustments. The BI tools
+even provide a diversity dashboard, which tracks the hourly
+mix of women and minorities working on the firm’s cases, a
+feature the company will license to Redwood Analytics for
+sale to other law firms. The firm developed this diversity
+tool to bring transparency to the diversity reporting process
+required by many clients. In other words, the tools provide
+Bryan Cave with a method of customizing its fees and helping
+clients better understand what they get for their money.
+As an illustration, Alber points to the customized pricing
+one lawyer gave to his real estate client. “Developers
+think in terms of square feet,” says Alber, “and this client
+couldn’t understand why legal fees for a 400,000-squarefoot
+building might be the same as for a 4,000-square-foot
+building, though it required the same amount of the lawyer’s
+time.” So the lawyer used the pricing and staffing
+modeling tools and historical analysis tools to determine
+whether it made sense for the law firm to charge clients
+based on the size of their projects.
+He found that while there was risk of underpricing large
+buildings, the deal volume in small buildings offset that risk for
+the law firm. The result made per-square-foot pricing possible.
+“It may be possible that someone with enough willpower
+or manpower could do that using traditional analysis,” says
+Alber, “but this lawyer had the information right at his fingertips.”
+Business intelligence enables “us to be in touch
+with clients and shift things around in response to what customers
+are asking,” says Alber. Adopting new and improved
+project management, pricing, and customer service capabilities
+required planning, appropriate pacing, and user buy-in.
+“In today’s environment, you can’t do value innovation
+without being in touch with the economics of your business,
+without really understanding where you make money and
+where you don’t, and that’s what business intelligence tools
+do,” says Alber. “Our goal,” he says, “is to build the best
+long-term relationships in the world.”
+Source: Adapted from Diann Daniel, “Delivering Customer Happiness
+Through Operational Business Intelligence,” CIO Magazine , December 6,
+2007; Diann Daniel, “How a Global Law Firm Used Business Intelligence to
+Fix Customer Billing Woes,” CIO Magazine , January 8, 2008; and Mary Weier,
+“Dear Customer: Please Don’t Leave,” InformationWeek , June 18, 2007.
+1. How do information technologies contribute to the business
+success of the companies depicted in the case? Provide
+an example from each company explaining how the
+technology implemented led to improved performance.
+2. In the case of law firm Bryan Cave discussed above, the
+use of BI technology to improve the availability, access,
+and presentation of existing information allowed them to
+provide tailored and innovative services to their customers.
+What other professions could benefit from a similar
+use of these technologies, and how? Develop two different
+possibilities.
+3. Cablecom developed a prediction model to better identify
+those customers at risk of switching to other company in
+the near future. In addition to those noted in the case,
+what other actions could be taken if that information
+were available? Give some examples of these. Would you
+consider letting some customers leave anyway? Why?
+1. Use the Internet to research the latest offerings in
+business intelligence technologies and their uses by
+companies. What differences can you find with those
+reviewed in the case? Prepare a report to summarize
+your findings and highlight new and innovative uses of
+these technologies.
+2. Why do some companies in a given industry, like
+eCourier above, adopt and deploy innovative technologies
+while others in the same line of business do not?
+Break into small groups with your classmates to discuss
+what characteristics of companies could influence
+their decision to innovate with the use of information
+technologies.
+CASE STUDY QUESTIONS REAL WORLD ACTIVITIES
+customers in the seventh month of service, and which includes
+an area where they can type in specific complaints and
+problems. “Cablecom calls customers within 24 hours of
+completing the survey,” says Cesconi. “The two approaches
+together provide the best view of customers ready to bolt,
+and the best chance at retaining them.”
+In 2002, global law firm Bryan Cave faced the milliondollar
+question: How do you make the most money with
+your resources while simultaneously delivering the highest
+customer value? The problem was pressing. Clients of the
+firm, which now has 800 lawyers in 15 offices worldwide,
+were demanding alternatives to the traditional hourly fee
+structure. They wanted new models such as fixed pricing
+and pricing that was adjusted during a project.
+But making money off these new billing strategies required
+the complicated balance of staffing and pricing.
+Projects weighted too heavily with a law partner’s time
+would be expensive (for the law firm) and not optimized for
+profit. Devoting too little of a partner’s time would leave clients
+feeling undervalued. Optimizing profit and perceived
+value had to be achieved by spreading partners’ time throughout
+a number of cases and balancing the remaining resources
+needed for a case with the less-expensive fees of associates and
+paralegals. “Clients are most likely to stay with you if you deliver
+just the right mix,” says Bryan Cave’s CIO John Alber.
+The law firm’s traditional method of analyzing collected
+fees and profit used a spreadsheet that was complicated and
+took too long. “Spreadsheets provide a level of detail that can
+be valuable for analysts,” says Alber, “but the information in a
+spreadsheet can be confusing and difficult to work with.” Alber
+says he decided it was better to build an easy-to-understand
+interface using business intelligence tools; although the company
+will not release specific figures, Alber says since the company
+implemented its first BI tool in 2004, both profitability
+and hours leveraged—the hours worked by equity partners and
+all other fee earners at the firm—have increased substantially.
+The tools also allow lawyers to track budgets in real time
+so that they can quickly make adjustments. The BI tools
+even provide a diversity dashboard, which tracks the hourly
+mix of women and minorities working on the firm’s cases, a
+feature the company will license to Redwood Analytics for
+sale to other law firms. The firm developed this diversity
+tool to bring transparency to the diversity reporting process
+required by many clients. In other words, the tools provide
+Bryan Cave with a method of customizing its fees and helping
+clients better understand what they get for their money.
+As an illustration, Alber points to the customized pricing
+one lawyer gave to his real estate client. “Developers
+think in terms of square feet,” says Alber, “and this client
+couldn’t understand why legal fees for a 400,000-squarefoot
+building might be the same as for a 4,000-square-foot
+building, though it required the same amount of the lawyer’s
+time.” So the lawyer used the pricing and staffing
+modeling tools and historical analysis tools to determine
+whether it made sense for the law firm to charge clients
+based on the size of their projects.
+He found that while there was risk of underpricing large
+buildings, the deal volume in small buildings offset that risk for
+the law firm. The result made per-square-foot pricing possible.
+“It may be possible that someone with enough willpower
+or manpower could do that using traditional analysis,” says
+Alber, “but this lawyer had the information right at his fingertips.”
+Business intelligence enables “us to be in touch
+with clients and shift things around in response to what customers
+are asking,” says Alber. Adopting new and improved
+project management, pricing, and customer service capabilities
+required planning, appropriate pacing, and user buy-in.
+“In today’s environment, you can’t do value innovation
+without being in touch with the economics of your business,
+without really understanding where you make money and
+where you don’t, and that’s what business intelligence tools
+do,” says Alber. “Our goal,” he says, “is to build the best
+long-term relationships in the world.”
+Source: Adapted from Diann Daniel, “Delivering Customer Happiness
+Through Operational Business Intelligence,” CIO Magazine , December 6,
+2007; Diann Daniel, “How a Global Law Firm Used Business Intelligence to
+Fix Customer Billing Woes,” CIO Magazine , January 8, 2008; and Mary Weier,
+“Dear Customer: Please Don’t Leave,” InformationWeek , June 18, 2007.
+6 ? Module I / Foundation Concepts
+• Your book bag, day planner, notebooks, and file folders are all part of an information
+system designed to help you organize the inputs provided to you via
+handouts, lectures, presentations, and discussions. They also help you process
+these inputs into useful outputs: homework and good exam grades.
+• The cash register at your favorite fast-food restaurant is part of a large information
+system that tracks the products sold, the time of a sale, inventory levels,
+and the amount of money in the cash drawer; it also contributes to the analysis of
+product sales in any combination of locations anywhere in the world.
+• A paper-based accounting ledger as used before the advent of computer-based
+accounting systems is an iconic example of an information system. Businesses
+used this type of system for centuries to record the daily transactions and to keep
+a record of the balances in their various business and customer accounts.
+Figure 1.2 illustrates a useful conceptual framework that organizes the knowledge
+presented in this text and outlines areas of knowledge you need about information
+systems. It emphasizes that you should concentrate your efforts in the following five
+areas of IS knowledge:
+• Foundation Concepts. Fundamental behavioral, technical, business, and managerial
+concepts about the components and roles of information systems. Examples
+include basic information system concepts derived from general systems
+theory or competitive strategy concepts used to develop business applications of
+information technology for competitive advantage. Chapters 1 and 2 and other
+chapters of the text support this area of IS knowledge.
+• Information Technologies. Major concepts, developments, and management issues
+in information technology—that is, hardware, software, networks, data management,
+and many Internet-based technologies. Chapters 3 and 4 provide an overview of
+computer hardware and software technologies, and Chapters 5 and 6 cover key data
+resource management and telecommunications network technologies for business.
+• Business Applications. The major uses of information systems for the operations,
+management, and competitive advantage of a business. Chapter 7 covers
+applications of information technology in functional areas of business such as
+marketing, manufacturing, and accounting. Chapter 8 focuses on e-commerce
+applications that most companies use to buy and sell products on the Internet,
+and Chapter 9 covers the use of information systems and technologies to support
+decision making in business.
+• Development Processes. How business professionals and information specialists
+plan, develop, and implement information systems to meet business opportunities.
+Several developmental methodologies are explored in Chapter 10, including the
